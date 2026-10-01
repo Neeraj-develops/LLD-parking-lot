@@ -2,7 +2,6 @@ package Parking.lot.LLD.parking.lot.ParkingFee;
 
 import Parking.lot.LLD.parking.lot.Enums.DurationType;
 
-import static Parking.lot.LLD.parking.lot.Enums.VehicleType.*;
 
 public class BasicFeeStrategy implements ParkingFeeStrategy{
 
